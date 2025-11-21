@@ -1,0 +1,5 @@
+{
+  "name": "AeroSim AI",
+  "description": "A 3D drone flight simulator with realistic physics and AI-generated missions powered by Gemini.",
+  "requestFramePermissions": []
+}
